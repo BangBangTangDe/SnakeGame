@@ -1,0 +1,31 @@
+{
+  "pages": [
+    "pages/snake/snake",
+    "pages/index/index"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#87BAED",
+    "navigationBarTitleText": "首页",
+    "navigationBarTextStyle": "white"
+  },
+"tabBar": {
+  "color": "#38E857",
+  "selectedColor": "#4698C5",
+  "list": [{
+    "pagePath": "pages/index/index",
+    "text": "首页",
+    "iconPath": "img/首页.png",
+    "selectedIconPath": "img/select2.png"
+  },
+  {
+    "pagePath": "pages/snake/snake",
+    "text": "贪吃蛇",
+    "iconPath": "img/贪吃蛇.png",
+    "selectedIconPath": "img/select1.png"
+  }]
+},
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

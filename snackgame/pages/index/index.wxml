@@ -1,0 +1,12 @@
+<!--index.wxml-->
+<view>
+  <view class="title">作者信息</view>
+  <view class="name">小宝</view>
+  <view class="contain">
+    <image class="picture" src="/img/touxiang.png"></image>
+  </view>
+
+
+  <image class="self-introduce" src="/img/self.gif"></image>
+
+</view>
